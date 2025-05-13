@@ -29,19 +29,6 @@
 
 ---
 
-## 🚀 Proyectos Destacados
-
-<div align="center">
-  <a href="[link-al-proyecto-1]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tolinauta&repo=[nombre-repo-1]&theme=dark" />
-  </a>
-  <a href="[link-al-proyecto-2]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tolinauta&repo=[nombre-repo-2]&theme=dark" />
-  </a>
-</div>
-
----
-
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
